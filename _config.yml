@@ -1,0 +1,28 @@
+name: Bravo Zulu
+favicon: null
+layout_spectrum: 0.7052174108102918
+typography_spectrum: 0.2600070536136627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8949800143018365
+  lightness: 0.44833048479631543
+  saturation: 0.42845084867440164
+  rhythmicContrast: 0.8294546082615852
+purpose: []
