@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bravo Zulu]]></title>
+        <description><![CDATA[Bravo Zulu]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Mar 2016 14:08:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1fc7811-e741-40e5-9a61-7294c499b5e4.jpg">]]></description>
+            <link>undefinedso-we-have-done-it-blue-grotto-has-been-replaced-by-our-n/index.html</link>
+            <guid isPermaLink="false">a20b094f-b403-42b9-97c7-a9e24c7ba1e0</guid>
+            <pubDate>Sat, 26 Mar 2016 14:08:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
